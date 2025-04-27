@@ -458,6 +458,7 @@ extern int debug;
 #define PCI_DEVICE_ID_INTEL_UNIONPOINT_MEI2 0xA2BB /* Union Point MEI #2 */
 #define PCI_DEVICE_ID_INTEL_UNIONPOINT_MEI3 0xA2BE /* Union Point MEI #3 */
 #define PCI_DEVICE_ID_INTEL_ALDERLAKE 0x54E0 /* Alderlake N150 HECI */
+#define PCI_DEVICE_ID_INTEL_ALDERLAKE_B 0x51E0 /* Alderlake HECI */
 
 #define PCI_DEV_HAS_SUPPORTED_ME(x) ( \
 	((x) ==  PCI_DEVICE_ID_INTEL_COUGARPOINT_1) || \

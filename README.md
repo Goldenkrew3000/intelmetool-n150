@@ -1,5 +1,5 @@
-# Intelmetool for Alderlake N150
-Intelmetool patched to work with the N150 HECI
+# Intelmetool for Alderlake & N150
+Intelmetool patched to work with the Alderlake & N150 HECI
 
 # What is this?
 Intelmetool by default does not work with newer hardware, and requires patching to add support, and this is that.<br>
@@ -8,3 +8,4 @@ The source code is at ```util/intelmetool``` and can be built by running ```make
 
 # Tested Devices
 - Chuwi Hi10 Max N150 ```(00:16.0 0780: 8086:54e0)```
+- Thinkpad E14 Gen 4 ```(00:16.0 0780: 8086:51e0)```
